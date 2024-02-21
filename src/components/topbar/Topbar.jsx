@@ -22,7 +22,7 @@ export default function Topbar() {
 
           <div className="topbarIconsContainer">
             <Settings />
-            <span className="topIconBadge">2</span>
+            <img src='https://cdn1.unitedinfocus.com/uploads/14/2024/02/GettyImages-2010375051-scaled.jpg' alt='avatar' className="topAvatar"/> 
           </div>
         </div>
 

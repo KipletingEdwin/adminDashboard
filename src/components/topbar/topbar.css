@@ -18,3 +18,22 @@
     color: darkblue;
     cursor: pointer;
 }
+
+.topbarIconsContainer{
+    position: relative;
+}
+
+.topIconBadge{
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: -5px;
+    right: 5px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
